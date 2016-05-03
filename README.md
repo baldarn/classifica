@@ -25,5 +25,6 @@ java -jar target/classifica.jar &
 </code>
 
 L'applicazione crea automaticamente due utenti
+
 l'utente admin con password admin per inserire altri utenti e gestire i punti
 l'utente user con password user
